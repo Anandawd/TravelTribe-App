@@ -1,5 +1,6 @@
 import Button from "elements/Button";
 
+
 export default function Categories({ data }) {
   return data.map((category, index1) => {
     return (
