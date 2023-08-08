@@ -17,6 +17,7 @@
     "react-awesome-reveal": "^4.2.5",
     "react-date-range": "^1.4.0",
     "react-dom": "^18.2.0",
+    "react-html-parser": "^2.0.2",
     "react-reveal": "^1.2.2"
   },
   "devDependencies": {

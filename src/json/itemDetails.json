@@ -1,6 +1,6 @@
 {
   "_id": "asd1293uasdads1",
-  "name": "Village Angga",
+  "name": "Water Seven",
   "type": "Hotel",
   "imageUrls": [
     {
@@ -22,7 +22,7 @@
   "unit": "night",
   "isPopular": true,
   "hasBackyard": true,
-  "description": "<p>Water Seven is a luxurious 5-star hotel that promises an unforgettable stay in the heart of the bustling city. With its elegant and modern design, the hotel offers unparalleled comfort and luxury, complete with top-notch facilities such as a spacious swimming pool, modern fitness center, delicious restaurants, and a rejuvenating spa. </p><p>Each room is thoughtfully designed with modern amenities like flat-screen TVs, free Wi-Fi, and private bathrooms with complete bath essentials.</p>",
+  "description": "<p>Water Seven is a luxurious 5-star hotel that promises an <br>unforgettable stay in the heart of the bustling city. With its <br>elegant and modern design, the hotel offers unparalleled <br>comfort and luxury, complete with top-notch facilities <br>such as a spacious swimming pool, modern fitness center<br>, delicious restaurants, and a rejuvenating spa. </p><p>Each room is thoughtfully designed with modern amenities <br>like flat-screen TVs, free Wi-Fi, and private bathrooms with <br>complete bath essentials.</p>",
   "features": [
     {
       "_id": "asd1293uasdads1",
@@ -106,34 +106,34 @@
       "items": [
         {
           "_id": "asd1293uasdads1",
-          "name": "PSW Antasari",
-          "imageUrl": "/images/treasure-1.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
-          "isPopular": false
-        },
-        {
-          "_id": "asd1293uasdads1",
-          "name": "Kuretakeso",
-          "imageUrl": "/images/treasure-2.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
-          "isPopular": false
-        },
-        {
-          "_id": "asd1293uasdads1",
-          "name": "Arya Duta",
-          "imageUrl": "/images/treasure-3.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "name": "Batuwara",
+          "imageUrl": "/images/image-category-1.jpg",
+          "country": "Batu",
+          "city": "Indonesia",
           "isPopular": true
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Grand Dhika",
-          "imageUrl": "/images/treasure-4.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "name": "Vins Field",
+          "imageUrl": "/images/image-category-2.jpg",
+          "country": "Bali",
+          "city": "Indonesia",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Dirduras",
+          "imageUrl": "/images/image-category-3.jpg",
+          "country": "Surabaya",
+          "city": "Indonesia",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Windland",
+          "imageUrl": "/images/image-category-4.jpg",
+          "country": "NTT",
+          "city": "Indonesia",
           "isPopular": false
         }
       ]
@@ -141,9 +141,9 @@
   ],
   "testimonial": {
     "_id": "asd1293uasdads1",
-    "imageUrl": "/images/testimonial-detailspage.jpg",
+    "imageUrl": "/images/testimonial-waterseven.png",
     "name": "Happy Family",
-    "rate": 4.25,
+    "rate": 4.75,
     "content": "What a great experience to reserve my weekend on TrivelTribe, i should book it again and again for the weekend, thank you!",
     "familyName": "Jerome",
     "familyOccupation": "Designer"
